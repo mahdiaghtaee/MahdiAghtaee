@@ -39,13 +39,3 @@
 - همکاری در پروژه‌های Open Source.
 - بهبود دقت و قابلیت اطمینان مدل‌های یادگیری ماشین.
 
----
-
-### 📈 آمار دیگر:
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=mahdiaghtaee" alt="visitor badge"/>
-</p>
-
----
-
